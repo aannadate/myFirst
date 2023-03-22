@@ -9,5 +9,8 @@ public class Address {
 	public void address() {
 		System.out.println("Address");
 	}
+	public void opadd() {
+		System.out.println("add optional method");
+	}
 
 }
